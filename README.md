@@ -15,3 +15,16 @@ Learning experience with Next Academy Backend Course
 ```
 ruby ~/file_path/file_name.rb
 ```
+
+<b>Interactive Ruby Shell</b>
+
+<i>To run irb type this in your console :</i>
+```
+irb
+```
+
+<i>To quit</i>
+
+```
+Cmd + D or Ctrl + D
+```
