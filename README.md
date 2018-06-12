@@ -1,6 +1,6 @@
 Learning experience with Next Academy Backend Course
 
-Why Ruby ?
+<b>Why Ruby ?</b>
 1. Easy to read
 2. Easy to write
 3. Strong community
@@ -10,7 +10,7 @@ Why Ruby ?
     - Web backends
 6. It is known for its speed in creating a web app, great for building MVPs (Minimal Viable Product).
 
-How to run a ruby file
+<b>How to run a ruby file</b>
 
 ```
 ruby ~/file_path/file_name.rb
