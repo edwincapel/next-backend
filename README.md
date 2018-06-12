@@ -31,21 +31,17 @@ Cmd + D or Ctrl + D
 
 <b>Ways to output</b>
 
-1. print
+1. print - <i>Output message (inline)</i>
 ```
 print "Hello World"
 ```
-<sm>Output message (inline)</sm>
 
-
-2. puts
+2. puts - <i>Output + new line</i>
 ```
 puts "Hello World"
 ```
-<sm>Output + new line</sm>
 
-3. p
+3. p - <i>Inspects the value + output + new line</i>
 ```
 p "Hello World"
 ```
-<sm>Inspects the value + output + new line</sm>
