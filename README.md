@@ -28,3 +28,20 @@ irb
 ```
 Cmd + D or Ctrl + D
 ```
+
+<b>Ways to output</b>
+
+1. print
+```
+print "Hello World"
+```
+
+2. puts
+```
+puts "Hello World"
+```
+
+3. p
+```
+p "Hello World"
+```
