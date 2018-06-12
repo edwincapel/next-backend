@@ -45,3 +45,12 @@ puts "Hello World"
 ```
 p "Hello World"
 ```
+
+<b>Variables</b>
+
+<b>Naming Rules</b>
+1. Names can contain letters (a-Z), digits (0-9), _ and $
+2. Names CANNOT begin with a digit
+3. Names CANNOT use reserved words, e.g. true, and, or etc...
+4. Names are case sensitive
+    - myname, MyName & MY_NAME are different variables
