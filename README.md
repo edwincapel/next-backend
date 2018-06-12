@@ -35,13 +35,17 @@ Cmd + D or Ctrl + D
 ```
 print "Hello World"
 ```
+<sm>Output message (inline)</sm>
+
 
 2. puts
 ```
 puts "Hello World"
 ```
+<sm>Output + new line</sm>
 
 3. p
 ```
 p "Hello World"
 ```
+<sm>Inspects the value + output + new line</sm>
